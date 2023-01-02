@@ -1,0 +1,1 @@
+Analise exploratória e aplicação algoritmo Regressão linear no dataset "Average car prices - Bazil" do Kaggle.
