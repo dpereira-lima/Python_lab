@@ -1,0 +1,1 @@
+Analise dos dados, aplicação feature engineering e machine learning no data frame wine quality do Kaggle.
