@@ -1,1 +1,4 @@
 Analise exploratória e aplicação algoritmo Regressão linear no dataset "Average car prices - Bazil" do Kaggle.
+
+
+Exploratory analysis and algorithm application Linear regression on the Kaggle "Average car prices - Bazil" dataset.
