@@ -1,6 +1,6 @@
 Explicação em Português
 
-Neste repositório contem código Python para analise exploratório e aplicação do algoritimo de Regressão Linear sobre o dataset "Average car prices - Brasil", obtido do site Kaggle.
+Neste diretório contem código Python para analise exploratório e aplicação do algoritimo de Regressão Linear sobre o dataset "Average car prices - Brasil", obtido do site Kaggle.
 
 Neste código começo importando as bibliotecas e pacotes da linguagem Python;
 Abro o arquivo .csv utilizando recursos do pacote Pandas;
@@ -12,7 +12,7 @@ E aplico o modelo de Regressão Linear.
 
 Explanation in English
 
-This repository contains Python code for exploratory analysis and application of the Linear Regression algorithm on the dataset "Average car prices - Brazil", obtained from the Kaggle website.
+In this directory contains Python code for exploratory analysis and application of the Linear Regression algorithm on the dataset "Average car prices - Brazil", obtained from the Kaggle website.
 
 In this code I start by importing the Python language libraries and packages;
 I open the .csv file using resources from the Pandas package;
