@@ -1,5 +1,0 @@
-Analise exploratória e aplicação do algoritmo Arvore de Decisão no dataset "Earthquakes" do Kaggle.
-
-
-
-Exploratory analysis and application of the Decision Tree algorithm to the Kaggle "Earthquakes" dataset.
