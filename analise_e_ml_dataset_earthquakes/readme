@@ -25,7 +25,7 @@ The link to this Dataset is also at the end of this readme.
 First I import the libraries;
 In addition to the Dataset, CSV file, using Pandas libraries;
 I analyze the data, clean the number of columns and records with null values;
-And applies the Decision Tree algorithm (DecisionTreeClassifier):
+And applies the Decision Tree algorithm:
   In the algorithm settings, I only set the number of nodes in the tree to 3;
   With the training data I observed an accuracy of 98%
   And in the model graph I could see that the vast majority of events with the following characteristics were not considered earthquakes:
