@@ -12,17 +12,17 @@ E novo final faço uma nova analise dos dados utilizando alguns graficos: histog
 
 
 
-Explicação em Inglês
+Explanation in English
 
-Neste diretório realizo uma análise exploratória do conjunto de dados Iris, obtidos do site UCI.
+In this directory I carry out an exploratory analysis of the Iris dataset, obtained from the UCI website.
 
-Utilizando recursos das bibliotecas Pandas, Matplotlib e Sklearn da linguagem Python
+Using resources from the Python libraries Pandas, Matplotlib and Sklearn
 
-O link deste conjunto de dados também se encontra no final deste leiame.
+The link to this dataset is also at the end of this readme.
 
-Primeiro relizo uma análise exploratória dos dados;
-Converter alguns dados e incluir a coluna target;
-E o novo final faço uma nova análise dos dados utilizando alguns gráficos: histograma, dispersão e Matriz dos atributos.
+First, I carry out an exploratory analysis of the data;
+Convert some data and include the target column;
+And the new end I do a new analysis of the data using some graphs: histogram, dispersion and Attribute Matrix.
 
 
 
