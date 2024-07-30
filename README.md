@@ -1,4 +1,4 @@
-# Explicação em Português
+## Explicação em Português
 
 Neste repositório contém códigos, em linguagem Python, sobre analise exploratória de dados ou aplicação de técnicas de Marchine Learning.
 
@@ -7,7 +7,7 @@ Utilizo este repositório para publicar alguns exemplos, com o objetivo de disse
 Os códigos estão separados em diretórios e cada diretório contém um readme com uma pequena explicação.
 
 
-# Explanation in English
+## Explanation in English
 
 This repository contains codes, in Python language, about exploratory data analysis and/or application of Machine Learning techniques.
 
