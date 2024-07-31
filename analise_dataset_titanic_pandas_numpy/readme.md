@@ -1,4 +1,4 @@
-Explicação em Português
+## Explicação em Português
 
 Neste diretório realizo uma analise exploratoria do Dataset Dados Naufragio do Titanic, obtido do site Kaggle.
 Utilizando as bibliotecas NumPy e Pandas da linguagem Python.
@@ -10,7 +10,7 @@ E crio arrays dos valores das colunas Idade, Tarifa e Sobreviventes para calcula
 
 
 
-Explanation in English
+## Explanation in English
 
 In this directory I carry out an exploratory analysis of the Titanic Shipwreck Dataset, from the Kaggle website.
 Using the NumPy and Pandas libraries from the Python language.
