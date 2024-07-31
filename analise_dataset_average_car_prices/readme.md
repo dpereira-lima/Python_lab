@@ -1,4 +1,4 @@
-Explicação em Português
+## Explicação em Português
 
 Neste diretório contem código Python para analise exploratório e aplicação do algoritimo de Regressão Linear sobre o dataset "Average car prices - Brasil", obtido do site Kaggle.
 
@@ -10,7 +10,7 @@ Aplico a normalização dos dados, para aplicação do modelo Machine Learning;
 E aplico o modelo de Regressão Linear.
 
 
-Explanation in English
+## Explanation in English
 
 In this directory contains Python code for exploratory analysis and application of the Linear Regression algorithm on the dataset "Average car prices - Brazil", obtained from the Kaggle website.
 
