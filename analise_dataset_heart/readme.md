@@ -1,4 +1,4 @@
-Explicação em Português
+## Explicação em Português
 
 Neste diretório contém código Python para análise do data set "Heart attack analysis predition dataset" (Conjunto de dados de previsão e análise de ataque cardíaco), retirado do conjunto de datasets do Kaggle.
 
@@ -12,7 +12,7 @@ E uma analise das estatísticas descritivas do dataset original.
 
 
 
-Explanation in English
+## Explanation in English
 
 This directory contains Python code for analyzing the "Heart attack analysis prediction dataset", taken from the Kaggle dataset.
 
