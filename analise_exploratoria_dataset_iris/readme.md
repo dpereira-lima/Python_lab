@@ -1,5 +1,3 @@
-## Explicação em Português
-
 Neste diretório realizo uma analise exploratoria do dataset Iris, obtido do site UCI.
 
 Utilizando recursos das bibliotecas Pandas, Matplotlib e Sklearn da linguagem Python
@@ -11,8 +9,8 @@ O link deste dataset também se econtra no final deste readme.
   - E novo final faço uma nova analise dos dados utilizando alguns graficos: histograma, dispersão e Matriz dos atributos.
 
 
+--------------------------------------------------------------------------------------------------
 
-## Explanation in English
 
 In this directory I carry out an exploratory analysis of the Iris dataset, obtained from the UCI website.
 
@@ -24,5 +22,7 @@ The link to this dataset is also at the end of this readme.
   - Convert some data and include the target column;
   - And the new end I do a new analysis of the data using some graphs: histogram, dispersion and Attribute Matrix.
 
+
+--------------------------------------------------------------------------------------------------
 
 https://archive.ics.uci.edu/ml/datasets/iris
