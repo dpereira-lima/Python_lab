@@ -1,5 +1,3 @@
-## Explicação em Português
-
 Neste diretório faço, utilizando bibliotecas da linguagem Pyhon, uma analise exploratória e aplicação do algoritimo Árvore de Decisão no Dataset Earthquakes, obtido do site Kaggle.
 
 O link para este Dataset também se encontra no final deste readme.
@@ -13,10 +11,10 @@ O link para este Dataset também se encontra no final deste readme.
    - E no grafico do modelo pude observar que na grande maioria os eventos com as seguintes caracteristica não foram considerados terremotos:
     - Erro de pronfundidade com valor maior que 31.285;
     - E profundidade com valor menor ou igual a -0.065.
-		
-		
 
-## Explanation in English
+
+--------------------------------------------------------------------------------------------------
+
 
 In this directory, using Pyhon language libraries, I perform an exploratory analysis and application of the Decision Tree algorithm to the Earthquakes Dataset, obtained from the Kaggle website.
 
@@ -32,6 +30,8 @@ The link to this Dataset is also at the end of this readme.
     - Depth error with a value greater than 31.285;
     - And depth with a value less than or equal to -0.065.
 
+
+--------------------------------------------------------------------------------------------------
 
 https://www.kaggle.com/datasets/thedevastator/uncovering-geophysical-insights-analyzing-usgs-e
 
