@@ -1,5 +1,3 @@
-## Explicação em Português
-
 Neste diretório faço, utilizando bibliotecas da linguagem Pyhon, uma analise exploratória e aplicação de alguns algoritimos de Machine Learning sobre os dados do Data set de Qualidade de Vinhos.
 
 É um trabalho um pouco longo, mas vou tentar resumir aqui tudo o que foi realizado.
@@ -23,7 +21,8 @@ Neste diretório faço, utilizando bibliotecas da linguagem Pyhon, uma analise e
 E o modelo Random Forest apresentou melhor taxa de acerto.
 
 
-## Explanation in English
+--------------------------------------------------------------------------------------------------
+
 
 In this directory, using Pyhon language libraries, I carry out an exploratory analysis and application of some Machine Learning algorithms on data from the Wine Quality Data Set.
 
